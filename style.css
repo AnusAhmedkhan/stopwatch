@@ -64,10 +64,14 @@ html{
 
 @media(max-width:500px) {
     html{
-font-size: 30%;
+font-size: 55%;
 
 
 
 
     }
+    .container1{
+        text-align: center;
+    }
+
 }
