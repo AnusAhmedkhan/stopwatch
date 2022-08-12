@@ -64,14 +64,11 @@ html{
 
 @media(max-width:500px) {
     html{
-font-size: 55%;
+font-size: 50%;
 
-
-
-
-    }
-    .container1{
-        align-items: center;
+}
+    .item1{
+        text-align: center;
     }
 
 }
