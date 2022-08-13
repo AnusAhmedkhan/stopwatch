@@ -54,7 +54,7 @@ html{
     margin: 3rem;
     border: 0.1rem solid black;
     border-radius: 0.5rem;
-    font-family: Lucida Handwriting;
+    font-family: Lucida Handwriting !important;
     padding-right: 0.5rem;
 }
 .marquee{
@@ -62,13 +62,13 @@ html{
     font-weight: bold;
 }
 
-@media(max-width:500px) {
+@media(max-width:361px) {
     html{
-font-size: 50%;
+font-size: 45%;
 
 }
-    .item1{
-        text-align: center;
+    .container1{
+    text-align: center;
     }
 
 }
